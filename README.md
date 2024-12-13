@@ -23,6 +23,11 @@ One of my most detailed and perfectionist projects using the building block appr
 ### [MarioCraft](link)
 A game that combines Mario and Minecraft elements, creating a 2D Minecraft-like experience. It features both graphics and gameplay elements from these beloved games.
 
+## View Me On
+
+- **YouTube**: [Technical Coderji](https://youtube.com/@TechnicalCoderji?si=4q91YNanMTXwXlVM)
+- **Instagram**: [Technical Coderji](https://www.instagram.com/technical_coderji?igshid=MzNlNGNkZWQ4Mg==)
+
 ## Career Goals & Interests
 
 My career goal is to become a successful programmer, with a strong passion for game development and large, impactful real-world projects. I'm particularly interested in discovering how engineering marvels work, along with the underlying physics and mathematics.
