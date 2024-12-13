@@ -34,7 +34,7 @@ My career goal is to become a successful programmer, with a strong passion for g
 
 ## Contact
 
-- **Email**: [your.email@example.com](emailid)
-- **LinkedIn**: [Your LinkedIn Profile](linked in)
+- **Email**: [dipparmar4637@gmail.com](mailto:dipparmar4637@gmail.com)
+<!-- **LinkedIn**: [Your LinkedIn Profile](linked in) -->
 
 ✨ **Coding is my language, Math is my logic, and Physics is my framework. Let's build the future together!** 🚀🔢🔬
