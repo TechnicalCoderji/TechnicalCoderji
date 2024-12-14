@@ -20,9 +20,6 @@ I'm a passionate developer with a love for coding, math, and physics. Let's buil
 ### [Gate Simulator](link)
 One of my most detailed and perfectionist projects using the building block approach. It simulates logic gates and helps in understanding digital circuits.
 
-### [MarioCraft](link)
-A game that combines Mario and Minecraft elements, creating a 2D Minecraft-like experience. It features both graphics and gameplay elements from these beloved games.
-
 ## View Me On
 
 - **YouTube**: [Technical Coderji](https://youtube.com/@TechnicalCoderji?si=4q91YNanMTXwXlVM)
