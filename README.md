@@ -1,37 +1,21 @@
-# Hello, I'm Dip Parmar 👋
+<h1 align="center">Hi 👋, I'm Dip Parmar</h1>
+<h3 align="center">I'm a passionate developer with a love for coding, math, and physics. Let's build the future together! 🚀🔢🔬</h3>
 
-I'm a passionate developer with a love for coding, math, and physics. Let's build the future together! 🚀🔢🔬
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=technicalcoderji&label=Profile%20views&color=0e75b6&style=flat" alt="technicalcoderji" /> </p>
 
-## Skills
+- 🌱 I’m currently learning **Python,pygame,tkinter**
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- 👨‍💻 All of my projects are available at [https://github.com/TechnicalCoderji?tab=repositories](https://github.com/TechnicalCoderji?tab=repositories)
 
-### Tools & Technologies
-![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- 📫 How to reach me **dipparmar4637@gmail.com**
 
-## Projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/technical coderji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="technical coderji" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/technical coderji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="technical coderji" height="30" width="40" /></a>
+</p>
 
-### [Gate Simulator](link)
-One of my most detailed and perfectionist projects using the building block approach. It simulates logic gates and helps in understanding digital circuits.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## View Me On
-
-- **YouTube**: [Technical Coderji](https://youtube.com/@TechnicalCoderji?si=4q91YNanMTXwXlVM)
-- **Instagram**: [Technical Coderji](https://www.instagram.com/technical_coderji?igshid=MzNlNGNkZWQ4Mg==)
-
-## Career Goals & Interests
-
-My career goal is to become a successful programmer, with a strong passion for game development and large, impactful real-world projects. I'm particularly interested in discovering how engineering marvels work, along with the underlying physics and mathematics.
-
-## Contact
-
-- **Email**: [dipparmar4637@gmail.com](mailto:dipparmar4637@gmail.com)
-<!-- **LinkedIn**: [Your LinkedIn Profile](linked in) -->
-
-✨ **Coding is my language, Math is my logic, and Physics is my framework. Let's build the future together!** 🚀🔢🔬
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=technicalcoderji&show_icons=true&locale=en&layout=compact" alt="technicalcoderji" /></p>
